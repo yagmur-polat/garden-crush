@@ -1,0 +1,9 @@
+delay dolla
+2470 3
+
+delay dolla
+1200
+delay dolla
+1990
+delay dolla
+3660
